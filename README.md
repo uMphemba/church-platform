@@ -46,3 +46,9 @@ The mobile project uses Expo SDK 57 to match current Expo Go on the phone used f
 
 Replace the repositories with a versioned API. Keep public content, member information and administrative operations on separate authorised endpoints. Planned production services: managed PostgreSQL, secure authentication, server-side role checks, object storage for media, retention and deletion workflows, audit logs and a POPIA-reviewed privacy process. Never rely on browser status or role values for authorisation.
 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/uMphemba/church-platform.git
+git push -u origin main
