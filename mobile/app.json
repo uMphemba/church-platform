@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Church prototype",
+    "slug": "church-prototype",
+    "scheme": "churchprototype",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#183b35"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
